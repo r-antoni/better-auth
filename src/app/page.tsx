@@ -9,7 +9,7 @@ export default function Home() {
         <h2>This is a test app I make to learn more about better auth</h2>
       </div>    
       <div>
-        <Link href="/signin" className="text-blue-500 underline">
+        <Link href="/sign-in" className="text-blue-500 underline">
           Sign In
         </Link>
       </div>
